@@ -9,3 +9,6 @@ ex) git remote add origin https://github.com/GoodPineApple/oz-todo.git
 
 ### 연결 확인
 git remote -v
+
+## 원격 레파지터리 받기
+github Settings - Collaboratos - [Add people]
