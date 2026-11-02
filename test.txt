@@ -9,3 +9,9 @@ ex) git remote add origin https://github.com/GoodPineApple/oz-todo.git
 
 ### 연결 확인
 git remote -v
+
+## 원격 레파지터리 받는 쪽
+1. 팀 폴더를 만들기
+2. 팀 폴더 기반으로 vscode열기
+3. git clone [github url]
+4. clone받은 폴더 기준으로 vscode 다시 열기
