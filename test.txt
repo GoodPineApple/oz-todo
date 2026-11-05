@@ -24,3 +24,16 @@ github Settings - Collaboratos - [Add people]
 2. (설정 알림이 나오면) git config pull.rebase false
 3. 격자무늬 충돌알림 마크보고 최종 코드 결정해서 저장하기
 4. add, commit, push 하기
+
+# 브랜치 관련 명령어
+## 브랜치 목록 확인
+git branch 
+
+## 브랜치 생성
+git branch [branch-name]
+
+## 브랜치 이동
+git checkout [branch-name]
+
+## 브랜치 생성+이동
+git checkout -b [branch-name]
