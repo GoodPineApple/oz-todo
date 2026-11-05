@@ -37,3 +37,5 @@ git checkout [branch-name]
 
 ## 브랜치 생성+이동
 git checkout -b [branch-name]
+
+기능브랜치 변경 1
